@@ -4,7 +4,7 @@ Host github-personal
   IdentityFile ~/.ssh/id_ed25519_personal
   IdentitiesOnly yes
 
-Host *
+Host * !github-personal
   UseKeychain yes
   AddKeysToAgent yes
   IdentityFile ~/.ssh/id_ed25519
