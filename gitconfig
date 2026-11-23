@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hargobindbadesha@gmail.com
+	name = hargobind badesha
